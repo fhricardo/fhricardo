@@ -1,5 +1,5 @@
-#Flávio Ricardo
-###Pro Retoucher, Designer, Front-end Developer & Instructor
+# Flávio Ricardo
+### Pro Retoucher, Designer, Front-end Developer & Instructor
 
 <!--
 **fhricardo/fhricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
