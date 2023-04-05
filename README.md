@@ -1,17 +1,12 @@
 # Flávio Ricardo
 ### Pro Retoucher, Designer, Front-end Developer & Instructor
 
-<!--
-**fhricardo/fhricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://behance.net/flavioricardo" target="_blank"><img src="https://flavioricardo.com.br/github-img/behance.png" alt="Behance"></a>
+  <a href="https://www.instagram.com/flavioricardodesign/" target="_blank"><img src="https://flavioricardo.com.br/github-img/instagram.png" alt="Instagram"></a>
+  <a href="https://www.youtube.com/flavioricardodesign" target="_blank"><img src="https://flavioricardo.com.br/github-img/youtube.png" alt="Youtube"></a>
+  <a href="https://www.facebook.com/flavioricardodesign" target="_blank"><img src="https://flavioricardo.com.br/github-img/facebook.png" alt="Facebook"></a>
+  <a href="https://www.artstation.com/flavioricardo" target="_blank"><img src="https://flavioricardo.com.br/github-img/artstation.png" alt="ArtStation"></a>
+  <a href="contact@flavioricardo.com.br" target="_blank"><img src="https://flavioricardo.com.br/github-img/mail.png" alt="e-mail"></a>
+  <a href="https://wa.me/5511940353144" target="_blank"><img src="https://flavioricardo.com.br/github-img/whatsapp.png" alt="WhatsApp"></a>
+</div>
