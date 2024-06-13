@@ -1,6 +1,6 @@
 # Flávio Ricardo
 ### Pro Retoucher, Designer, Front-end Developer & Instructor
-![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=radical)
+![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=tokyonight)
 <div>
   <a href="https://behance.net/flavioricardo" target="_blank"><img src="https://flavioricardo.com.br/github-img/behance.png" alt="Behance"></a>
   <a href="https://www.instagram.com/flavioricardodesign/" target="_blank"><img src="https://flavioricardo.com.br/github-img/instagram.png" alt="Instagram"></a>
