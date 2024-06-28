@@ -8,4 +8,5 @@
   <a href="https://www.facebook.com/flavioricardodesign" target="_blank"><img src="https://flavioricardo.com.br/github-img/facebook.png" alt="Facebook"></a>
   <a href="https://www.artstation.com/flavioricardo" target="_blank"><img src="https://flavioricardo.com.br/github-img/artstation.png" alt="ArtStation"></a>
   <a href="https://wa.me/5511940353144" target="_blank"><img src="https://flavioricardo.com.br/github-img/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://wa.me/5511940353144" target="_blank" style="display:block;width:200px;height:40px;border-radius:8px;">WhatsApp</a>
 </div>
