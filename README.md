@@ -1,7 +1,6 @@
 <img src = "banner-github.webp" width = "100%">
 
 # Welcome! Bienvenido! Willkommen! Accueillir! Bem-vindo!
-### I'm Instructor, Full Stack Dev, UI/UX Designer, Graphic Designer & Pro Retoucher
 ![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=tokyonight)
 <div>
   <a href="https://behance.net/flavioricardo" target="_blank"><img src="https://flavioricardo.com.br/github-img/behance.png" alt="Behance"></a>
@@ -13,10 +12,10 @@
 </div>
 <div>
   <img src="tech-ico-css.webp">
-<img src="tech-ico-html.webp">
-<img src="tech-ico-java.webp">
-<img src="tech-ico-js.webp">
-<img src="tech-ico-mysql.webp">
-<img src="tech-ico-php.webp">
+  <img src="tech-ico-html.webp">
+  <img src="tech-ico-java.webp">
+  <img src="tech-ico-js.webp">
+  <img src="tech-ico-mysql.webp">
+  <img src="tech-ico-php.webp">
 </div>
 
