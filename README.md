@@ -1,3 +1,5 @@
+<img src = "banner-github.webp" width = 100%">
+
 # Flávio Ricardo
 ### Pro Retoucher, Designer, Front-end Developer & Instructor
 ![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=tokyonight)
