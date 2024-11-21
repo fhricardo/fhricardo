@@ -1,7 +1,7 @@
-<img src = "banner-github.webp" width = 100%">
+<img src = "banner-github.webp" width = "100%">
 
-# Flávio Ricardo
-### Pro Retoucher, Designer, Front-end Developer & Instructor
+# Welcome! Bienvenido! Willkommen! Accueillir! Bem-vindo!
+### I'm Instructor, Full Stack Dev, UI/UX Designer, Graphic Designer & Pro Retoucher
 ![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=tokyonight)
 <div>
   <a href="https://behance.net/flavioricardo" target="_blank"><img src="https://flavioricardo.com.br/github-img/behance.png" alt="Behance"></a>
@@ -11,3 +11,12 @@
   <a href="https://www.artstation.com/flavioricardo" target="_blank"><img src="https://flavioricardo.com.br/github-img/artstation.png" alt="ArtStation"></a>
   <a href="https://wa.me/5511940353144" target="_blank"><img src="https://flavioricardo.com.br/github-img/whatsapp.png" alt="WhatsApp"></a>
 </div>
+<div>
+  <img src="tech-ico-css.webp">
+<img src="tech-ico-html.webp">
+<img src="tech-ico-java.webp">
+<img src="tech-ico-js.webp">
+<img src="tech-ico-mysql.webp">
+<img src="tech-ico-php.webp">
+</div>
+
