@@ -1,6 +1,6 @@
 <img src = "banner-github.webp" width = "100%">
-
-[Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=holi)
+# Stats
+![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=holi)
 <div>
 <h3>Social</h3>
 <hr>
