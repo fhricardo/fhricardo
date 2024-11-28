@@ -1,6 +1,6 @@
 <img src = "banner-github.webp" width = "100%">
 
-![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=holi)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhricardo)](https://github.com/anuraghazra/github-readme-stats)
+![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=holi)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhricardo&layout=compact)
 <div>
 <h3>Social</h3>
   <a href="https://www.linkedin.com/in/fhricardo/" target="_blank"><img src="social-btn-linkedin.webp" alt="LinkedIn" title="LinkedIn"></a>
