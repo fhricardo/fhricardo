@@ -11,11 +11,14 @@
   <a href="https://wa.me/5511940353144" target="_blank"><img src="https://flavioricardo.com.br/github-img/whatsapp.png" alt="WhatsApp"></a>
 </div>
 <div>
-  <img src="tech-ico-css.webp">
   <img src="tech-ico-html.webp">
-  <img src="tech-ico-java.webp">
+  <img src="tech-ico-css.webp">
   <img src="tech-ico-js.webp">
-  <img src="tech-ico-mysql.webp">
+  <img src="tech-ico-sass.webp">
   <img src="tech-ico-php.webp">
+  <img src="tech-ico-mysql.webp">
+  <img src="tech-ico-java.webp">
+  <img src="tech-ico-git.webp">
+  <img src="tech-ico-github.webp">
 </div>
 
