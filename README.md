@@ -1,7 +1,7 @@
 <img src = "banner-github.webp" width = "100%">
 
 # Welcome! Bienvenido! Willkommen! Accueillir! Bem-vindo!
-![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=tokyonight)
+![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=holi)
 <div>
   <a href="https://behance.net/flavioricardo" target="_blank"><img src="https://flavioricardo.com.br/github-img/behance.png" alt="Behance"></a>
   <a href="https://www.instagram.com/flavioricardodesign/" target="_blank"><img src="https://flavioricardo.com.br/github-img/instagram.png" alt="Instagram"></a>
