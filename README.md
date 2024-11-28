@@ -3,7 +3,6 @@
 ![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=holi)
 <div>
 <h3>Social</h3>
-<hr>
   <a href="https://www.linkedin.com/in/fhricardo/" target="_blank"><img src="social-icon-linkedin.webp" alt="LinkedIn" title="LinkedIn"></a>
   <a href="https://www.instagram.com/flavioricardodesign/" target="_blank"><img src="social-icon-instagram.webp" alt="Instagram" title="Instagram"></a>
   <a href="https://www.youtube.com/flavioricardodesign" target="_blank"><img src="social-icon-youtube.webp" alt="Youtube" title="Youtube"></a>
@@ -14,7 +13,6 @@
 </div>
 <div>
 <h3>Skills</h3>
-<hr>
   <img src="tech-ico-html.webp" title="HTML5">
   <img src="tech-ico-css.webp" title="CSS3">
   <img src="tech-ico-js.webp" title="JavaScript">
