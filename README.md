@@ -11,4 +11,5 @@
   <a href="https://behance.net/flavioricardo" target="_blank"><img src="social-btn-behance.webp" alt="Behance" title="Behance"></a>
   <a href="https://www.artstation.com/flavioricardo" target="_blank"><img src="social-btn-artstation.webp" alt="ArtStation" title="ArtStation"></a>
   <a href="https://wa.me/5511940353144" target="_blank"><img src="social-btn-whatsapp.webp" alt="WhatsApp" title="WhatsApp"></a>
+  <a href="https://flavioricardo.com.br" target="_blank"><img src="social-btn-site.webp" alt="Website" title="Website"></a>
 </div>
