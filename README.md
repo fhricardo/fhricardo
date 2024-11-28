@@ -2,7 +2,8 @@
 
 ![Flavio Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&theme=holi)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhricardo&layout=compact&theme=holi)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=fhricardo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhricardo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=382px" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=fhricardo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=holi" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhricardo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=holi&card_width=382px" />
 <div>
 <h3>Social</h3>
   <a href="https://www.linkedin.com/in/fhricardo/" target="_blank"><img src="social-btn-linkedin.webp" alt="LinkedIn" title="LinkedIn"></a>
