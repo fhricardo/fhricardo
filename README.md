@@ -14,4 +14,4 @@
   <a href="https://flavioricardo.com.br" target="_blank"><img src="social-btn-site.webp" alt="Website" title="Website"></a>
 </div>
 <h3>Skills</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,python)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,python)](https://skillicons.dev)
