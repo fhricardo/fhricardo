@@ -13,3 +13,5 @@
   <a href="https://wa.me/5511940353144" target="_blank"><img src="social-btn-whatsapp.webp" alt="WhatsApp" title="WhatsApp"></a>
   <a href="https://flavioricardo.com.br" target="_blank"><img src="social-btn-site.webp" alt="Website" title="Website"></a>
 </div>
+<h3>Skills</h3>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,python)](https://skillicons.dev)
