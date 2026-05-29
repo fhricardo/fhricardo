@@ -12,10 +12,8 @@
   <a href="https://www.artstation.com/flavioricardo" target="_blank"><img src="social-btn-artstation.webp" alt="ArtStation" title="ArtStation"></a>
   <a href="https://wa.me/5511940353144" target="_blank"><img src="social-btn-whatsapp.webp" alt="WhatsApp" title="WhatsApp"></a>
   <a href="https://flavioricardo.com.br" target="_blank"><img src="social-btn-site.webp" alt="Website" title="Website"></a>
-<h3>Skills</h3>
+<h3>Graphic Design & Design UI/UX Skills</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,git,python,java,figma,photoshop,illustrator" />
-  </a>
+  <img src="https://flavioricardo.com.br/iconsetAPI/?icon=ps,ai,id,ic,pr,ae,au,figma&m=d&s=2" alt="Graphic Design & Design UI/UX Skills"
 </p>
 </div>
