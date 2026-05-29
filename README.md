@@ -22,6 +22,6 @@
     </p>
 <h3>Operating Systems Skills</h3>
     <p align: "center"><img
-            src="https://flavioricardo.com.br/iconSetAPI/?icon=ms,apple,linux&s=3&m=l&t=s&g=2" alt="Operating Systems Skills">
+            src="https://flavioricardo.com.br/iconSetAPI/?icon=ms,apple,linux&s=3&m=d&t=s&g=2" alt="Operating Systems Skills">
     </p>
 </div>
