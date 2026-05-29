@@ -14,10 +14,14 @@
   <a href="https://flavioricardo.com.br" target="_blank"><img src="social-btn-site.webp" alt="Website" title="Website"></a>
 <h3>Full Stack Web Developement Skills</h3>
     <p align: "center"><img
-            src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php,mysql,python,java&s=3&m=d&t=s&g=2" alt="">
+            src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php,mysql,python,java,git,github&s=3&m=d&t=s&g=2" alt="Full Stack Web Developement Skills">
     </p>
 <h3>Graphic & UI/UX Design Skills</h3>
     <p align: "center"><img
-            src="https://flavioricardo.com.br/iconSetAPI/?icon=ps,ai,id,ic,pr,ae,me,au,figma&s=3&m=d&t=s&g=2" alt="">
+            src="https://flavioricardo.com.br/iconSetAPI/?icon=ps,ai,id,ic,pr,ae,me,au,figma&s=3&m=d&t=s&g=2" alt="Graphic & UI/UX Design Skills">
+    </p>
+<h3>Operating Systems Skills</h3>
+    <p align: "center"><img
+            src="https://flavioricardo.com.br/iconSetAPI/?icon=ms,apple,linux&s=3&m=d&t=s&g=2" alt="Operating Systems Skills">
     </p>
 </div>
