@@ -12,8 +12,12 @@
   <a href="https://www.artstation.com/flavioricardo" target="_blank"><img src="social-btn-artstation.webp" alt="ArtStation" title="ArtStation"></a>
   <a href="https://wa.me/5511940353144" target="_blank"><img src="social-btn-whatsapp.webp" alt="WhatsApp" title="WhatsApp"></a>
   <a href="https://flavioricardo.com.br" target="_blank"><img src="social-btn-site.webp" alt="Website" title="Website"></a>
+<h3>Full Stack Web Developement Skills</h3>
+    <p align: "center"><img
+            src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php,mysql,python,java&s=3&m=d&t=s&g=2" alt="">
+    </p>
 <h3>Graphic & UI/UX Design Skills</h3>
     <p align: "center"><img
-            src="https://flavioricardo.com.br/iconSetAPI/?icon=ps,ai,id,ic,pr,ae,me,au,figma&s=3&m=l&t=s&g=2" alt="">
+            src="https://flavioricardo.com.br/iconSetAPI/?icon=ps,ai,id,ic,pr,ae,me,au,figma&s=3&m=d&t=s&g=2" alt="">
     </p>
 </div>
