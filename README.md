@@ -18,7 +18,7 @@
     </p>
 <h3>Graphic & UI/UX Design Skills</h3>
     <p align: "center"><img
-            src="https://flavioricardo.com.br/iconSetAPI/?icon=ps,ai,id,ic,pr,ae,me,au,figma&s=3&m=d&t=s&g=2" alt="Graphic & UI/UX Design Skills">
+            src="https://flavioricardo.com.br/iconSetAPI/?icon=ps,ai,id,ic,pr,ae,me,au,figma,xd&s=3&m=d&t=s&g=2&col=5" alt="Graphic & UI/UX Design Skills">
     </p>
 <h3>Operating Systems Skills</h3>
     <p align: "center"><img
