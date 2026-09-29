@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-Instrutor e desenvolvedor focado em unir **código limpo, arquitetura sólida e design refinado**. Desenvolvo soluções completas do front ao back-end, além de interfaces centradas no usuário.
+#### Desenvolvedor Full Stack, Designer e Criador de Conteúdo. Uno arquitetura sólida, código limpo e UX refinada para construir soluções digitais de ponta a ponta.
 
 - 🌐 Portfólio oficial: [flavioricardo.com.br](https://flavioricardo.com.br)
 - 📍 São Paulo, Brasil
