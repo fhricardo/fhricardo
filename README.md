@@ -1,51 +1,164 @@
-<!-- Header Minimalista e Dinâmico -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Flavio%20Ricardo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descAlign=50" width="100%" alt="Flavio Ricardo" />
+<div align="center">
 
-## Sobre mim
+<img src="banner-github.webp" width="100%" alt="Flávio Ricardo — Designer & Full Stack Developer">
 
-Instrutor e desenvolvedor focado em unir **código limpo, arquitetura sólida e design refinado**. Desenvolvo soluções completas do front ao back-end, além de interfaces centradas no usuário.
+<br>
 
-- 🌐 Portfólio oficial: [flavioricardo.com.br](https://flavioricardo.com.br)
-- 📍 São Paulo, Brasil
-- 💬 Vamos conversar sobre projetos ou parcerias?
+# FLÁVIO RICARDO
 
----
+### Designer · Full Stack Developer · Instructor
 
-### Conecte-se comigo
+**Design → Prototyping → Development**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/fhricardo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/5511940353144" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://behance.net/flavioricardo" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://www.artstation.com/flavioricardo" target="_blank">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation" />
-  </a>
-  <a href="https://www.youtube.com/flavioricardodesign" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fhricardo/)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/flavioricardodesign)
+[![Behance](https://img.shields.io/badge/Behance-0d1117?style=for-the-badge\&logo=behance\&logoColor=white)](https://behance.net/flavioricardo)
+[![ArtStation](https://img.shields.io/badge/ArtStation-0d1117?style=for-the-badge\&logo=artstation\&logoColor=white)](https://www.artstation.com/flavioricardo)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://flavioricardo.com.br)
+
+</div>
 
 ---
 
-### Tech Stack & Ferramentas
+## 👋 About me
 
-#### Full Stack Web Development
-<p align="left">
-  <img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php,mysql,python,java,git,github&s=3&m=d&t=s&g=2" alt="Full Stack Skills" />
-</p>
+I'm a **Designer and Full Stack Web Developer** with more than **25 years of experience in Design** and over **20 years working with Web Development**.
 
-#### UI/UX & Graphic Design
-<p align="left">
-  <img src="https://flavioricardo.com.br/iconSetAPI/?icon=figma,ps,ai,id,xd,pr,ae,me,au&s=3&m=d&t=s&g=2" alt="Design Skills" />
-</p>
+My work sits at the intersection of **visual design, user experience and technology** — from the first sketch and interface prototype to the final code.
 
-#### Ambientes & Sistemas
-<p align="left">
-  <img src="https://flavioricardo.com.br/iconSetAPI/?icon=linux,apple,ms&s=3&m=d&t=s&g=2" alt="Operating Systems" />
-</p>
+I also work as an **Instructor**, helping young and adult learners develop practical skills in Design and Web Development.
+
+```text
+DESIGN
+  ├── Graphic Design
+  ├── UI / UX
+  ├── Visual Identity
+  └── Prototyping
+
+DEVELOPMENT
+  ├── HTML / CSS
+  ├── JavaScript
+  ├── PHP
+  ├── MySQL / MariaDB
+  └── Git / GitHub
+```
+
+---
+
+## 🧩 What I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Design & UI/UX
+
+* Interface Design
+* UX / UI
+* Design Systems
+* Wireframes & Prototypes
+* Visual Identity
+* Digital Products
+* Figma
+* Adobe Creative Cloud
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Web Development
+
+* HTML5
+* CSS3
+* JavaScript
+* PHP 8
+* MySQL / MariaDB
+* REST APIs
+* Responsive Interfaces
+* Git & GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript">
+
+### Back-end & Database
+
+<img src="https://skillicons.dev/icons?i=php,mysql,python" alt="PHP MySQL Python">
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git GitHub VS Code Figma">
+
+</div>
+
+---
+
+## 🚀 Currently working on
+
+* Building practical **Full Stack Web Development** projects
+* Developing educational content for **Design & Web Development**
+* Creating interfaces and prototypes with **Figma**
+* Developing web applications with **PHP + MySQL**
+* Exploring better ways to connect **Design, UX and Code**
+
+---
+
+## 📚 Teaching
+
+I believe learning technology works better when **theory meets practice**.
+
+My classes and projects focus on building real things — interfaces, websites, databases and complete web applications.
+
+**Design → Prototype → Code → Deploy**
+
+---
+
+## 📌 Featured Projects
+
+> A selection of projects focused on Design, Front-end and Full Stack Development.
+
+<!--
+Add your best repositories here.
+
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=fhricardo&repo=REPOSITORY&theme=github_dark&hide_border=true)](https://github.com/fhricardo/REPOSITORY)
+
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=fhricardo&repo=REPOSITORY&theme=github_dark&hide_border=true)](https://github.com/fhricardo/REPOSITORY)
+-->
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fhricardo&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhricardo&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something.
+
+**Design. Code. Learn.**
+
+<br>
+
+<a href="https://flavioricardo.com.br">
+<img src="https://img.shields.io/badge/flavioricardo.com.br-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+</div>
