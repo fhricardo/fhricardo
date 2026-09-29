@@ -1,5 +1,5 @@
 <!-- Header Minimalista e Dinâmico -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,1&height=210&section=header&text=Flavio%20Ricardo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descAlign=50" width="100%" alt="Flavio Ricardo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,0&height=210&section=header&text=Flavio%20Ricardo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descAlign=50" width="100%" alt="Flavio Ricardo" />
 
 ## Sobre mim
 
